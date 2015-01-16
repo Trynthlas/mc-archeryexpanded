@@ -1,0 +1,16 @@
+[
+{
+  "modid": "archeryexpanded",
+  "name": "Archery Expanded",
+  "description": "A mod to expand the options available for ranged weapons.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Trynthlas"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
